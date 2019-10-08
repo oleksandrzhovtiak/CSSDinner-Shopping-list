@@ -5,14 +5,14 @@ body{
 header{
     background-color: #4A4F56;
     color:#EB7E7F;
-    padding-left: 400px;
-    padding-right: 880px;       
+    /* padding-left: 400px;
+    padding-right: 880px;        */
 }
 h1, h2{
     text-align: center;
-    padding: 0px;
+    padding: 0px; */
     margin: 0px;
-}  
+} 
 label, li{
     padding-top: 10px;
     padding-bottom: 10px;
@@ -58,4 +58,4 @@ small:after{
 	}
 
 
- /* input:checked + label*/
+ input:checked + label */
